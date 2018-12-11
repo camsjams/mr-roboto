@@ -1,0 +1,40 @@
+@charset "utf-8";
+/* CSS Document */
+/* mr-roboto */
+
+main {
+  width: 60em;
+  margin: 0 auto;
+}
+
+section {
+  margin: 1em;
+}
+
+#message {
+  color: red;
+  font-weight: bold;
+}
+
+.output {
+  background: #eee;
+  word-wrap: anywhere;
+}
+
+.output a {
+  display: block;
+}
+
+textarea {
+  width: 100%;
+  min-height: 10em;
+}
+
+label {
+  display: block;
+}
+
+label input[type="text"] {
+  display: block;
+  width: 100%;
+}

@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+	<title>Simple Encrypted Notepad</title>
+	<meta charset="utf-8">
+	<link rel="stylesheet" type="text/css" href="styles.css" />
+</head>
+
+<body>
+	<main>
+		<section>
+			<p>Input</p>
+			<textarea id="data-input" name="data" class="input content"></textarea>
+		</section>
+		<section>
+			<label for="secret">
+				Secret
+				<input type="text" id="secret" autocomplete="false" name="secret" value="" />
+			</label>
+			<button id="encrypt">encrypt</button>
+			<hr />
+			<label for="initialization-vector">
+				Initialization Vector (iv)
+				<input type="text" id="iv" autocomplete="false" name="iv" value="" />
+			</label>
+			<label for="linkify">
+				Linkify text links (http/https)
+				<input id="linkify" type="checkbox" name="linkify" checked />
+			</label>
+			<button id="decrypt">decrypt</button>
+			<p id="message"></p>
+		</section>
+		<section>
+			<p>Output</p>
+			<div id="data-output" class="output content"></div>
+		</section>
+	</main>
+	<script type="text/javascript" src="code.js"></script>
+</body>
+
+</html>
