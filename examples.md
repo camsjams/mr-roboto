@@ -10,7 +10,7 @@ iv: `7A5BIBQ127vlTKFj`
 
 secret: `secret-links`
 
-## image of a dog
+## image of a dog (WIP)
 ciphertext:
 ```
 
@@ -20,7 +20,7 @@ iv: ``
 
 secret: `dogs-are-cute`
 
-## image of a cat
+## image of a cat (WIP)
 ciphertext:
 ```
 
