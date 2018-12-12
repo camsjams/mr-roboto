@@ -37,6 +37,7 @@ For fun or personal use, not for production - Version 1.0.0
 * [TextDecoder](https://developer.mozilla.org/en-US/docs/Web/API/TextDecoder)
 * [AES-GCM](https://en.wikipedia.org/wiki/Galois/Counter_Mode)
 
+## Thank You
 
 #### Domo arigato, Mr. Roboto
 
