@@ -25,7 +25,7 @@ Mr Roboto is not responsible for any data exfiltration woes. Keep it secret, kee
 * Check out some [examples here](examples.md)
 
 ## Demo
-[A demonstration](https://github.com/camsjams/mr-roboto)
+[A demonstration](https://camsjams.github.io/mr-roboto/)
 
 ## Status
 For fun or personal use, not for production - Version 1.0.0
